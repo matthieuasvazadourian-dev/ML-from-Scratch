@@ -11,11 +11,6 @@ This project implements 13 machine learning algorithms (supervised and unsupervi
 **Unsupervised:** K-Means, PCA, Gaussian Mixture Model, Factor Analysis, ICA, Collaborative Filtering
 
 ## Using this Package
-
-```bash
-pip install -e .
-```
-
 ```python
 from ml.supervised import LogisticRegressor
 from ml.preprocessing import StandardScaler
